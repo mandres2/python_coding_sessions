@@ -1,6 +1,6 @@
 # python_coding_sessions
 
-# Objective
+## Objective
 
 The point of establishing this repository is to gain additional understanding for data algorithms and structures and to write clean python code. Grasping concepts in Big O Notation. Analyzing Big O Notation is essential in technical interview settings and especially so in top-tier tech companies due to larger data sets and focusing more on application performance. A non-efficient solution may cost just a few milliseconds in a coding exercise, but can cost massive performance loss across millions of users and gigantic datasets.  A lot of candidates may get tripped up on the analysis, but in this course you'll learn exactly how to deliver that analysis with confidence.
 
